@@ -19,13 +19,11 @@
 //------------------------------------------------------------------------------
 static constexpr const char* const c_clink_header =
     "Clink v" CLINK_VERSION_STR "\n"
-    "Copyright (c) 2012-2018 Martin Ridgers\n"
-    "Portions Copyright (c) 2020-2022 Christopher Antos\n"
-    "https://github.com/chrisant996/clink\n"
+    "https://github.com/davehorner/clink-1\n"
     ;
 
 static constexpr const char* const c_clink_header_abbr =
-    "Clink v" CLINK_VERSION_STR " (https://github.com/chrisant996/clink)\n"
+    "Clink v" CLINK_VERSION_STR " (https://github.com/davehorner/clink-1)\n"
     ;
 
 static setting_enum s_clink_logo(
